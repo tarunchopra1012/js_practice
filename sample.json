@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "age": 28,
+      "isActive": true,
+      "registered": "2020-01-15",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "1-770-736-8031",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "department": "Engineering",
+        "position": "Frontend Developer",
+        "salary": 75000,
+        "yearsEmployed": 2
+      },
+      "projects": [
+        {
+          "id": "p001",
+          "name": "Website Redesign",
+          "hoursLogged": 127,
+          "completed": true
+        },
+        {
+          "id": "p002",
+          "name": "Mobile App",
+          "hoursLogged": 85,
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
