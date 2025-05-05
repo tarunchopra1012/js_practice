@@ -1,0 +1,412 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "age": 28,
+      "isActive": true,
+      "registered": "2020-01-15",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "1-770-736-8031",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "department": "Engineering",
+        "position": "Frontend Developer",
+        "salary": 75000,
+        "yearsEmployed": 2
+      },
+      "projects": [
+        {
+          "id": "p001",
+          "name": "Website Redesign",
+          "hoursLogged": 127,
+          "completed": true
+        },
+        {
+          "id": "p002",
+          "name": "Mobile App",
+          "hoursLogged": 85,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "age": 32,
+      "isActive": true,
+      "registered": "2019-11-07",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      },
+      "phone": "010-692-6593",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "department": "Engineering",
+        "position": "Full Stack Developer",
+        "salary": 95000,
+        "yearsEmployed": 4
+      },
+      "projects": [
+        {
+          "id": "p003",
+          "name": "API Development",
+          "hoursLogged": 240,
+          "completed": true
+        },
+        {
+          "id": "p004",
+          "name": "Database Migration",
+          "hoursLogged": 112,
+          "completed": true
+        },
+        {
+          "id": "p005",
+          "name": "Authentication System",
+          "hoursLogged": 75,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "age": 24,
+      "isActive": false,
+      "registered": "2021-03-22",
+      "skills": ["Python", "JavaScript", "Docker"],
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "department": "DevOps",
+        "position": "DevOps Engineer",
+        "salary": 82000,
+        "yearsEmployed": 1
+      },
+      "projects": [
+        {
+          "id": "p006",
+          "name": "CI/CD Pipeline",
+          "hoursLogged": 180,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "age": 42,
+      "isActive": true,
+      "registered": "2018-07-12",
+      "skills": ["JavaScript", "TypeScript", "React", "Vue", "Angular"],
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      },
+      "phone": "493-170-9623",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "department": "Engineering",
+        "position": "Senior Frontend Developer",
+        "salary": 110000,
+        "yearsEmployed": 7
+      },
+      "projects": [
+        {
+          "id": "p007",
+          "name": "Design System",
+          "hoursLogged": 320,
+          "completed": true
+        },
+        {
+          "id": "p008",
+          "name": "Performance Optimization",
+          "hoursLogged": 96,
+          "completed": true
+        },
+        {
+          "id": "p009",
+          "name": "Accessibility Audit",
+          "hoursLogged": 64,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "age": 29,
+      "isActive": true,
+      "registered": "2020-09-05",
+      "skills": ["JavaScript", "CSS", "Figma", "UI/UX"],
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "department": "Design",
+        "position": "UI Designer",
+        "salary": 78000,
+        "yearsEmployed": 3
+      },
+      "projects": [
+        {
+          "id": "p010",
+          "name": "Landing Page Design",
+          "hoursLogged": 90,
+          "completed": true
+        },
+        {
+          "id": "p011",
+          "name": "Mobile UI Kit",
+          "hoursLogged": 185,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "age": 35,
+      "isActive": false,
+      "registered": "2019-05-18",
+      "skills": ["JavaScript", "Python", "Data Analysis", "Machine Learning"],
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      },
+      "phone": "1-477-935-8478",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "department": "Data Science",
+        "position": "Data Scientist",
+        "salary": 105000,
+        "yearsEmployed": 5
+      },
+      "projects": [
+        {
+          "id": "p012",
+          "name": "Predictive Model",
+          "hoursLogged": 230,
+          "completed": true
+        },
+        {
+          "id": "p013",
+          "name": "Data Visualization",
+          "hoursLogged": 110,
+          "completed": true
+        },
+        {
+          "id": "p014",
+          "name": "ML Pipeline",
+          "hoursLogged": 175,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "age": 27,
+      "isActive": true,
+      "registered": "2021-01-09",
+      "skills": ["JavaScript", "Node.js", "Express", "MongoDB", "AWS"],
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "department": "Engineering",
+        "position": "Backend Developer",
+        "salary": 88000,
+        "yearsEmployed": 2
+      },
+      "projects": [
+        {
+          "id": "p015",
+          "name": "API Gateway",
+          "hoursLogged": 145,
+          "completed": true
+        },
+        {
+          "id": "p016",
+          "name": "Microservices",
+          "hoursLogged": 210,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "age": 31,
+      "isActive": true,
+      "registered": "2020-04-30",
+      "skills": ["JavaScript", "C#", ".NET", "SQL Server"],
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "phone": "586.493.6943",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "department": "Engineering",
+        "position": ".NET Developer",
+        "salary": 92000,
+        "yearsEmployed": 4
+      },
+      "projects": [
+        {
+          "id": "p017",
+          "name": "CRM System",
+          "hoursLogged": 275,
+          "completed": true
+        },
+        {
+          "id": "p018",
+          "name": "Payment Integration",
+          "hoursLogged": 120,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "age": 26,
+      "isActive": true,
+      "registered": "2021-06-15",
+      "skills": ["JavaScript", "Go", "Kubernetes", "Docker"],
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      },
+      "phone": "(775)976-6794",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "department": "Operations",
+        "position": "Cloud Engineer",
+        "salary": 98000,
+        "yearsEmployed": 2
+      },
+      "projects": [
+        {
+          "id": "p019",
+          "name": "Infrastructure as Code",
+          "hoursLogged": 190,
+          "completed": false
+        },
+        {
+          "id": "p020",
+          "name": "Container Orchestration",
+          "hoursLogged": 160,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "age": 38,
+      "isActive": false,
+      "registered": "2019-02-10",
+      "skills": ["JavaScript", "PHP", "Laravel", "MySQL"],
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "department": "Engineering",
+        "position": "PHP Developer",
+        "salary": 75000,
+        "yearsEmployed": 6
+      },
+      "projects": [
+        {
+          "id": "p021",
+          "name": "E-commerce Platform",
+          "hoursLogged": 320,
+          "completed": true
+        },
+        {
+          "id": "p022",
+          "name": "Admin Dashboard",
+          "hoursLogged": 180,
+          "completed": true
+        },
+        {
+          "id": "p023",
+          "name": "Payment Gateway",
+          "hoursLogged": 90,
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
